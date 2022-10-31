@@ -6,9 +6,9 @@
 
 ## Deployed Code
 
-URL to find Country by Capital City: https://capital-finder-amber.vercel.app/api/get_country_by_capital?capital={capital} (Links to an external site.)
+URL to find Country by Capital City: https://capital-finder-osama-maher.vercel.app/api/get_country_by_capital?capital={capital} (Links to an external site.)
 
-URL to find Capital City by Country: https://capital-finder-amber.vercel.app/api/get_capital_by_country?country={country}
+URL to find Capital City by Country: https://capital-finder-osama-maher.vercel.app/api/get_capital_by_country?country={county}
 
 ## Setup
 
