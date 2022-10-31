@@ -10,6 +10,13 @@ URL to find Country by Capital City: https://capital-finder-osama-maher.vercel.a
 
 URL to find Capital City by Country: https://capital-finder-osama-maher.vercel.app/api/get_capital_by_country?country={county}
 
+## examples 
+
+URL to find Country by Capital City: https://capital-finder-osama-maher.vercel.app/api/get_country_by_capital?capital=amman
+
+
+URL to find Capital City by Country: https://capital-finder-osama-maher.vercel.app/api/get_capital_by_country?country=qatar
+
 ## Setup
 
 For the Country by Capital City link type a capital city of your chosing into the {capital} space.
